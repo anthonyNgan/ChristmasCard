@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChristmasCard/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ChristmasCard/static/js/main.139c25e5.chunk.js",
+    "main.js.map": "/ChristmasCard/static/js/main.139c25e5.chunk.js.map",
+    "runtime-main.js": "/ChristmasCard/static/js/runtime-main.c133c7bb.js",
+    "runtime-main.js.map": "/ChristmasCard/static/js/runtime-main.c133c7bb.js.map",
+    "static/js/2.b02e8a9d.chunk.js": "/ChristmasCard/static/js/2.b02e8a9d.chunk.js",
+    "static/js/2.b02e8a9d.chunk.js.map": "/ChristmasCard/static/js/2.b02e8a9d.chunk.js.map",
+    "static/js/3.d6f01e1f.chunk.js": "/ChristmasCard/static/js/3.d6f01e1f.chunk.js",
+    "static/js/3.d6f01e1f.chunk.js.map": "/ChristmasCard/static/js/3.d6f01e1f.chunk.js.map",
+    "index.html": "/ChristmasCard/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ChristmasCard/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b02e8a9d.chunk.js.LICENSE.txt": "/ChristmasCard/static/js/2.b02e8a9d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ChristmasCard/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c133c7bb.js",
+    "static/js/2.b02e8a9d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.139c25e5.chunk.js"
+  ]
+}
