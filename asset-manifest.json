@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ChristmasCard/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/ChristmasCard/static/js/main.31eb6df8.chunk.js",
-    "main.js.map": "/ChristmasCard/static/js/main.31eb6df8.chunk.js.map",
+    "main.js": "/ChristmasCard/static/js/main.dcc9dd17.chunk.js",
+    "main.js.map": "/ChristmasCard/static/js/main.dcc9dd17.chunk.js.map",
     "runtime-main.js": "/ChristmasCard/static/js/runtime-main.045c6ccf.js",
     "runtime-main.js.map": "/ChristmasCard/static/js/runtime-main.045c6ccf.js.map",
     "static/js/2.ba171035.chunk.js": "/ChristmasCard/static/js/2.ba171035.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.045c6ccf.js",
     "static/js/2.ba171035.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.31eb6df8.chunk.js"
+    "static/js/main.dcc9dd17.chunk.js"
   ]
 }
