@@ -14,6 +14,7 @@ const App = () => {
       <Typography variant="h3">Merry Christmas Anna</Typography>
       <Container>
           <Typography variant={'p', 'h6'}>May next year bring you joy and heaps of laughter. Made this app since you like english, mindfulness, and posting bullshit typograph. It will randomly generate a quote said by the famous stoic philosopher. Also, the present I got you actually doesnt help your one of your goals.</Typography>
+          
         </Container>
       <header className="App-header">
        
