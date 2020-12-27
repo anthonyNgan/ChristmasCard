@@ -1,11 +1,13 @@
+import react from 'react';
 import './App.css';
 import meditations from 'meditations';
 import Container from '@material-ui/core/Container';
 import Typography from '@material-ui/core/Typography';
+import Button from '@material-ui/core/Button';
 
 const App = () => {
 
-  const quote = meditations.random();
+  const [quote,updateQuote ] = react.useState(meditations.random());
 
   return (
     <div className="App">
@@ -16,9 +18,10 @@ const App = () => {
       <header className="App-header">
        
         <Container fixed>
-          <Typography variant='h3'>" {quote} " </Typography>
-          <Typography variant={'h6','bold'}> Marcus Aureilus</Typography>
+          <Typography variant='h3'>{quote}</Typography>
+          <Typography variant={'h6', 'bold'}> Marcus Aureilus</Typography>
         </Container>
+        <Button color="primary" onClick={() => updateQuote(meditations.random())}>Hit me for a new Quote.</Button>
       </header>
     </div>
   );
